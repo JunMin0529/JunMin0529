@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=c1e9fc&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
 
-✨ Tech Stack ✨
+<h1 align='center'>✨ Tech Stack ✨</h1>
+
 
 <h3 align='center'>🧑‍💻 Languages 🧑‍💻</h3>
 <div align='center'>
