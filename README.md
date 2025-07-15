@@ -1,7 +1,19 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=c1e9fc&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
 
-<h1 align='center'>✨ Tech Stack ✨</h1>
+<div align='center'>
+  <h3>사용자의 편의를 생각하는 개발자,
+  <br>
+  같이 협업하고 싶은 개발자가 목표입니다</h3>
+  <br>
+  ✉️email : lsaoe157@naver.com
+  <br>
+  📌blog : https://yunseolan.inblog.io
+</div>
 
+<br>
+<br>
+
+<h1 align='center'>✨ Tech Stack ✨</h1>
 
 <h3 align='center'>🌐 Languages 🌐</h3>
 <div align='center'>
