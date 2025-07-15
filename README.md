@@ -1,13 +1,11 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=c1e9fc&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
 
 <div align='center'>
-  <h3>사용자의 편의를 생각하는 개발자,
+  <h2>사용자의 편의를 생각하는 개발자,
   <br>
-  같이 협업하고 싶은 개발자가 목표입니다</h3>
-  <br>
-  <b>✉️email : lsaoe157@naver.com</b>
-  <br>
-  <b>📌blog : https://yunseolan.inblog.io</b>
+  같이 협업하고 싶은 개발자가 목표입니다</h2>
+  <h3>✉️email : lsaoe157@naver.com</h3>
+  <h3>📌blog : https://yunseolan.inblog.io</h3>
 </div>
 
 <br>
