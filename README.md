@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=c1e9fc&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
 
-![header](https://capsule-render.vercel.app/api?text=안녕하세요!)
-
 ✨ Tech Stack ✨
 
 🧑‍💻 Development Languages
@@ -39,3 +37,7 @@
 - Slack
 - Discord
 - Figma
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunMin0529)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunMin0529&langs_count=8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
