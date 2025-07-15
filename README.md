@@ -5,9 +5,9 @@
   <br>
   같이 협업하고 싶은 개발자가 목표입니다</h3>
   <br>
-  ✉️email : lsaoe157@naver.com
+  <b>✉️email : lsaoe157@naver.com</b>
   <br>
-  📌blog : https://yunseolan.inblog.io
+  <b>📌blog : https://yunseolan.inblog.io</b>
 </div>
 
 <br>
