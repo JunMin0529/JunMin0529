@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=speech&color=auto&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
+
 ![header](https://capsule-render.vercel.app/api?text=안녕하세요!)
 
 
