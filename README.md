@@ -13,6 +13,20 @@
 <br>
 <br>
 
+<h1 align="center">✨ Project ✨</h1>
+
+<div align="center">
+  
+### 🔗 [1차 프로젝트 - 채용 서비스 v1](https://github.com/human-mjj/recruit-wwy-v1)  
+Spring 기반 사내 채용 서비스 - 로그인, 지원서, 관리자 기능 구현
+  
+### 🔗 [2차 프로젝트 - 채용 서비스 v2](https://github.com/human-mjj/recruit-wwy-v2)  
+v1 개선 + 도메인 설계 리팩토링 및 권한 시스템 강화
+
+</div>
+
+<br>
+
 <h1 align='center'>✨ Tech Stack ✨</h1>
 
 <h3 align='center'>🌐 Languages 🌐</h3>
