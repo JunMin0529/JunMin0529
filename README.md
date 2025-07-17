@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=speech&color=c1e9fc&height=300&section=header&text=JunMin%20GitHub&fontSize=90" />
 
 <div align='center'>
-  <h3>사용자의 편의를 생각하는 개발자,
+  <h3>디버깅 과정을 통해 문제해결능력을 성장하고,
   <br>
-  같이 협업하고 싶은 개발자가 목표입니다</h3>
+  경청과 소통으로 함께 일하고 싶은 개발자가 목표입니다.</h3>
   <strong>✉️email </strong> : lsaoe157@naver.com
   <br>
   <strong>📌blog</strong> : https://yunseolan.inblog.io
@@ -20,7 +20,7 @@
 Spring 기반 사내 채용 서비스 - 로그인, 지원서, 관리자 기능 구현
   
 ### 🔗 [2차 프로젝트 - 채용 서비스 v2](https://github.com/JunMin0529/recruit-wwy-v2)
-v1 개선 + 도메인 설계 리팩토링 및 권한 시스템 강화
+v1 구조 전환 + REST API 기반 자원 서버화(JWT)
 
 </div>
 
