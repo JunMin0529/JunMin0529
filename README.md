@@ -22,6 +22,10 @@ Spring 기반 사내 채용 서비스 - 로그인, 지원서, 관리자 기능 �
 ### 🔗 [2차 프로젝트 - 채용 서비스 v2](https://github.com/JunMin0529/recruit-wwy-v2)
 v1 구조 전환 + REST API 기반 자원 서버화(JWT)
 
+### 🔗 [3차 프로젝트 - 러닝 활동 기반 소셜 피트니스 플랫폼](https://github.com/JunMin0529/tracky-spring)
+러닝 기록 저장, 통계 분석, 친구 기능 등 운동 데이터를 활용한 API 서버 구축
+
+
 </div>
 
 <br>
